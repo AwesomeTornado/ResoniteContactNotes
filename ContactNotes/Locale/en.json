@@ -1,0 +1,8 @@
+{
+  "localeCode": "en",
+  "authors": [ "__Choco__" ],
+  "messages": {
+    "ContactNotes.KeyA": "Localization key A",
+    "ContactNotes.KeyB": "Another localization"
+  }
+}
